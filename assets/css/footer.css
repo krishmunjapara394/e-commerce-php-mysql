@@ -1,0 +1,37 @@
+/* Footer Styles */
+footer.bg-light {
+    background-color: #000 !important;
+}
+
+footer a {
+    color: #333333;
+}
+    
+footer a:hover {
+    color: #DB4444;
+}
+
+footer .text-muted {
+    color: #6c757d !important;
+}
+
+footer .btn-primary {
+    background-color: #DB4444;
+    border: none;
+    color: #ffffff;
+}
+
+footer .form-control {
+    background-color: #ffffff;
+    border: 1px solid #eaeaea;
+    color: #333333;
+}
+
+footer .form-control::placeholder {
+    color: #6c757d;
+}
+
+.upper-nav.primary-bg {
+    background-color: #DB4444;
+    color: #ffffff;
+}
